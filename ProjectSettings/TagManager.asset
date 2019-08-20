@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - maxImage
+  - root
+  - videos
+  - locked_file_text
+  - Locked_File
+  - password_box
+  - password_text
+  - password_button
+  - open
+  - back
+  - close
+  - input
+  - password
+  - folder
+  - scaffold
+  - directory
+  - image
+  - image_viewer
+  - movie_player
+  - video
+  - dot
+  - text
+  - text_view
+  - email
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Folders
+    uniqueID: 3116731215
+    locked: 0
